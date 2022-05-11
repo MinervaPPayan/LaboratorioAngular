@@ -1,0 +1,65 @@
+.mat-form-field {
+  text-align: left;
+  margin-left: 40%;
+}
+
+  .mat-table {
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    margin-left: 22%;
+    
+  }
+
+  .mat-cell, .mat-footer-cell {
+    color: rgba(0, 0, 0, 0.87);
+    background-color: rgba(0, 139, 139, 0.623);
+  }
+
+  #botonR{
+    margin-left: 43%;
+    height: 36px;
+    width: 105px;
+    background-color: darkcyan;
+    color: black;
+    font-weight: bold;
+  }
+  #botonG{
+    margin-left: 42%;
+  }
+  #botonB{
+    margin-left: 3%;
+  }
+  h1{
+    margin-left: 36%;
+    color: darkcyan;
+    font-weight: bold;
+  }
+  h2{
+    margin-top: 2%;
+    margin-left: 41%;
+    font-weight: bold;
+  }
+
+  th{
+    background-color: darkcyan;
+    color: black;
+    font-weight: bold;
+  }
+  
+
+th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
+    padding: 35px;
+      padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+  }
+
+  th.mat-header-cell, td.mat-cell, td.mat-footer-cell {
+    padding: 18px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    text-align: center;
+  }
+
